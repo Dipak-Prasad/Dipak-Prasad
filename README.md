@@ -5,18 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="dipak-prasad" /> </p>
 
 <h2 align="left">🚀 About Me</h2>
-<hr/>
 <ul>
   <li>⚒ I'm Diving deep into Fullstack Engineering</li>
   <li>🧠 I'm currently learning Next and DevOps</li>
-  <li>📫 How to reach me <a href="mailto:tmohamedaashir@gmail.com">prasaddipak.0078@gmailk.com</a></li>
+  <li>📫 How to reach me <a href="mailto:prasaddipak.0078@gmail.com">prasaddipak.0078@gmail.com</a></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dipakprasa44407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakprasa44407" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipak-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-prasad" height="30" width="40" /></a>
-</p>
+
 
 
 <h4 align="left">👨‍💻Frontend Development:</h4>
@@ -59,3 +54,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipak-prasad&show_icons=true&locale=en&layout=compact" alt="dipak-prasad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipak-prasad&show_icons=true&locale=en" alt="dipak-prasad" /></p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/dipakprasa44407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakprasa44407" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipak-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-prasad" height="30" width="40" /></a>
+</p>
