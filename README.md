@@ -1,3 +1,4 @@
+<img src="/coding.jfif"/>
 <h1 align="center">Hi 👋, I'm Dipak Prasad</h1>
 <h3 align="center">Geek from India</h3>
 
