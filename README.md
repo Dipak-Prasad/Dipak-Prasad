@@ -4,7 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="dipak-prasad" /> </p>
 
-- 📫 How to reach me **prasaddipak.0078@gmail.com**
+<h2 align="left">🚀 About Me</h2>
+<hr/>
+<ul>
+  <li>⚒ I'm Diving deep into Fullstack Engineering</li>
+  <li>🧠 I'm currently learning Next and DevOps</li>
+  <li>📫 How to reach me <a href="mailto:tmohamedaashir@gmail.com">prasaddipak.0078@gmailk.com</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
